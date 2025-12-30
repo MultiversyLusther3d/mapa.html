@@ -94,7 +94,7 @@
 </div>
 
 <div id="folha-anotacao">
-    <h2 style="color:#2c1e0a; margin-top:0;">Anais da Região</h2>
+    <h2 style="color:#2c1e0a; margin-top:0;">Anotações literária</h2>
     <textarea id="texto-area" placeholder="Descreva aqui a geografia, cidades e perigos deste mapa..."></textarea>
     <div style="display:flex; gap:10px;">
         <button class="btn-primario" onclick="salvarAnotacao()">Salvar Crônica</button>
